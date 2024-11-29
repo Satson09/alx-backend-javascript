@@ -113,4 +113,3 @@ describe('#calculateNumber() with type DIVIDE', () => {
     expect(calculateNumber('DIVIDE', -88.5, -3.6)).to.equal(22);
   });
 });
-

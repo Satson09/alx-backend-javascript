@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const assert = require("assert");
 const { it, describe } = require("mocha");
 const calculateNumber = require("./0-calcul");
@@ -33,7 +33,7 @@ describe('calculateNumber', function () {
     assert.strictEqual(calculateNumber(0, 4.5), 5);
   });
 });
-=======
+
 // 0-calcul.test.js
 const assert = require('assert');
 const calculateNumber = require('./0-calcul');
@@ -60,4 +60,3 @@ describe('calculateNumber', function() {
   });
 });
 
->>>>>>> 1975a3eaadb4a3fa9fe1355dfa16e0e52f13ab85

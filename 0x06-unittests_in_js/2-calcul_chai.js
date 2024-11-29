@@ -38,4 +38,3 @@ module.exports = calculateNumber;
   }
 
   module.exports = calculateNumber;
-
