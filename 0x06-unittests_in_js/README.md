@@ -7,12 +7,21 @@ NodeJS
 ExpressJS
 Mocha
  Weight: 1
+
  Ongoing second chance project - started Nov 27, 2024 6:00 AM, must end by Nov 30, 2024 6:00 AM
  An auto review will be launched at the deadline
 In a nutshell…
 Auto QA review: 1.0/64 mandatory
 Altogether:  1.56%
 Mandatory: 1.56%
+
+ Project over - took place from Oct 2, 2024 6:00 AM to Oct 4, 2024 6:00 AM
+ An auto review will be launched at the deadline
+In a nutshell…
+Auto QA review: 0.0/64 mandatory
+Altogether:  0.0%
+Mandatory: 0.0%
+
 Optional: no optional tasks
 
 
@@ -102,6 +111,7 @@ GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: package.json, 0-calcul.js, 0-calcul.test.js
   
+    
 1. Combining descriptions
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -166,7 +176,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 2-calcul_chai.js, 2-calcul_chai.test.js
-  
+
 3. Spies
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -199,8 +209,8 @@ Repo:
 
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
-File: utils.js, 3-payment.js, 3-payment.test.js
-  
+File: utils.js, 3-payment.js, 3-payment.test.j
+
 4. Stubs
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -229,7 +239,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 4-payment.js, 4-payment.test.js
-  
+
 5. Hooks
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -257,7 +267,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 5-payment.js, 5-payment.test.js
-  
+
 6. Async tests with done
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -289,6 +299,11 @@ File: 6-payment_token.js, 6-payment_token.test.js
 7. Skip
 mandatory
 Score: 50.0% (Checks completed: 50.0%)
+    
+7. Skip
+mandatory
+Score: 0.0% (Checks completed: 0.0%)
+
 When you have a long list of tests, and you can’t figure out why a test is breaking, avoid commenting out a test, or removing it. Skip it instead, and file a ticket to come back to it as soon as possible
 
 You will be using this file, conveniently named 7-skip.test.js
@@ -344,7 +359,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 7-skip.test.js
-  
+
 8. Basic Integration testing
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -420,7 +435,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 8-api/package.json, 8-api/api.js, 8-api/api.test.js
-  
+
 9. Regex integration testing
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -490,7 +505,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 9-api/api.js, 9-api/api.test.js, 9-api/package.json
-  
+
 10. Deep equality & Post integration testing
 mandatory
 Score: 0.0% (Checks completed: 0.0%)

@@ -2,6 +2,7 @@
   "name": "0x06-unittests_in_js",
   "version": "1.0.0",
   "description": "unit testing in js",
+<<<<<<< HEAD
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint",
@@ -22,4 +23,29 @@
     "mocha": "^9.2.2",
     "sinon": "^12.0.1"
   }
+=======
+  "main": "0-calcul.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  },
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satson09/alx-backend-javascript.git"
+  },
+  "keywords": [
+    "\"",
+    "\""
+  ],
+  "author": "Satson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satson09/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Satson09/alx-backend-javascript#readme"
+>>>>>>> 1975a3eaadb4a3fa9fe1355dfa16e0e52f13ab85
 }
